@@ -86,8 +86,8 @@ ads303@pitt.edu
 
 ## Version History
 
-* 0.1
-    * Initial Release
+* 0.99.0
+    * Pre-Release
 
 ## License
 
