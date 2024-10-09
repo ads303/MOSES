@@ -1,0 +1,30 @@
+Package: MOSES
+Type: Package
+Title: A powerful method for precise in silico transcriptome-wide
+        association studies (TWAS) using long-range DNA methylation
+Version: 0.1.0
+Creator: Yidi Qin 
+Authors@R: c(person("Yidi", "Qin", email = "yiq22@pitt.edu", role = c("aut")), person("Soyeon", "Kim", role = c("aut")), person("Aditya", "Sriram", email = "ads303@pitt.edu", role = c("aut", "cre")))
+Description: A powerful method for precise in silico transcriptome-wide association studies (TWAS) using long-range DNA methylation
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.50)
+RoxygenNote: 7.2.3
+RemoteType: github
+RemoteHost: api.github.com
+RemoteRepo: MOSES
+RemoteUsername: ads303
+RemoteRef: HEAD
+RemoteSha: a7b5439b82b9bdb690eeaf587570f5a6cfefc2df
+GithubRepo: MOSES
+GithubUsername: ads303
+GithubRef: HEAD
+GithubSHA1: a7b5439b82b9bdb690eeaf587570f5a6cfefc2df
+NeedsCompilation: no
+Packaged: 2024-10-02 19:35:43 UTC; adsriram98
+Built: R 4.2.2; ; 2024-10-02 19:37:47 UTC; unix
+VignetteBuilder: knitr
+biocViews: Transcriptomics, DNAMethylation, GeneExpression, GenePrediction
+BugReports: https://github.com/YidiQin/MOSES/issues
+URL: https://github.com/YidiQin/MOSES
