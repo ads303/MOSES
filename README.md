@@ -80,6 +80,10 @@ yiq22@pitt.edu
 * Soyeon Kim \
 soyeon.kim21@chp.edu
 
+
+* Aditya Sriram \
+ads303@pitt.edu
+
 ## Version History
 
 * 0.1
