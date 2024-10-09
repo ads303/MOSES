@@ -20,15 +20,6 @@ library(glmnet)
 library(limma)
 ```
 
-### Installing
-
-* How/where to download the package:
-```
-install.packages("devtools")
-library(devtools)
-install_github("YidiQin/MOSES", force = TRUE)
-library(MOSES)
-```
 * Any modifications needed to be made to files/folders
 
 ### Executing program
