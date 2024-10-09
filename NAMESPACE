@@ -1,0 +1,6 @@
+export('MOSES', 'MOSES_BySummary', 'Prediction', 'Prediction_BySummary', 'MOSES_cis', 'MOSES_snp_meth', 'Prediction_snp_meth', 'GenePos', 'MatchPos', 'Synonym_Search')
+importFrom(utils, readRDS, write.csv)
+importFrom(parallel, mclapply)
+importFrom(glmnet, glmnet, predict)
+importFrom(limma, lmFit, eBayes)
+import(GenomicRanges)
