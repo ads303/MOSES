@@ -6,7 +6,7 @@ Version: 0.99.0
 Creator: Yidi Qin 
 Authors@R: c(person("Yidi", "Qin", email = "yiq22@pitt.edu", role = c("aut")), person("Soyeon", "Kim", role = c("aut")), person("Aditya", "Sriram", email = "ads303@pitt.edu", role = c("aut", "cre")))
 Description: A powerful method for precise in silico transcriptome-wide association studies (TWAS) using long-range DNA methylation
-License: What license is it under?
+License: MIT
 Encoding: UTF-8
 LazyData: true
 Depends: R (>= 3.50)
