@@ -20,17 +20,6 @@ library(glmnet)
 library(limma)
 ```
 
-### Installing
-
-* How/where to download the package:
-```
-install.packages("devtools")
-library(devtools)
-install_github("YidiQin/MOSES", force = TRUE)
-library(MOSES)
-```
-* Any modifications needed to be made to files/folders
-
 ### Executing program
 
 * How to run MOSES: \
@@ -88,6 +77,10 @@ yiq22@pitt.edu
 
 * Soyeon Kim \
 soyeon.kim21@chp.edu
+
+
+* Aditya Sriram \
+ads303@pitt.edu
 
 ## Version History
 
